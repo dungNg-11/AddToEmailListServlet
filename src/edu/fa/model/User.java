@@ -43,9 +43,6 @@ public class User
 		return emailAddress;
 	}
 
-	//test commit
-	//test checkout
-	//test reset
-	//test reset 1
+	//test pull request
 
 }
